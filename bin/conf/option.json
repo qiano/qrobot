@@ -1,0 +1,46 @@
+{
+   "simulation":"1",
+
+    "resttime":"5",
+    "profit":"0.55",
+    "peramount":"0.01",
+    "colddowntime":"10",
+    "tofast":"1",
+
+    "tradecenter": "okcoin",
+    "strategy": "MACD-K1-Q",
+    "totalHour": "20000",
+    "klines":"1,5,15,30,60",
+    "tick_interval": "001",
+    "timeout":"300",
+    "tradeAmount":"0.05",
+    "stoploss":"0.005",
+    "stoploss_resttime":"3", 
+    "minprofit":"0.5",
+    "stepprice":"0.02",
+    "splitordercount":"5",
+    
+    "kdjperiod":"9",
+    "jlow":"20",
+    "jhight":"70",
+
+    "signalPeriod": "9",
+    "shortEMA": "12",
+    "longEMA": "26",
+    "MACDbuyThreshold": "0.1",
+    "MACDsellThreshold": "0.1",
+
+    "enable_trading": "1",
+    "basePrice": "3827",
+    "buyThreshold": "0.0001",
+    "datacenter": "huobi",
+    "disable_backtesting": "0",
+    "discipleMode": "0",
+    "discipleValue": "0.0",
+    "enable_email": "0",
+    "fluctuation": "1",
+    "sellThreshold": "0.0082",
+    "slippage": "0.001",
+    "symbol": "btc_cny",
+    "to_email": "xxxxx@qq.com"
+}
